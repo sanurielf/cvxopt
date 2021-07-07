@@ -1,0 +1,352 @@
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:22 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.02s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.03 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:22 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:24 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:24 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:26 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:26 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:27 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:27 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:27 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:27 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:28 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:28 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:29 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:29 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:30 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8efe6e1e
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+00, 3e+00]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.5000000e+01   2.997500e+00   0.000000e+00      0s
+       2   -9.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -9.000000000e+00
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 12 19:36:30 2021
+
+Academic license - for non-commercial use only - expires 2021-09-03
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 5 rows, 2 columns and 8 nonzeros
+Model fingerprint: 0x958a71d3
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 5 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -5.000000000e+00
